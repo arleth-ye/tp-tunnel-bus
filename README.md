@@ -9,5 +9,10 @@ Pour compiler le programme, utiliser la commande suivante dans le terminal :
 
 ```bash
 gcc -o tunnel tunnel.c
+```
 
+Puis, pour exécuter le programme :
 
+```bash
+./tunnel
+```
